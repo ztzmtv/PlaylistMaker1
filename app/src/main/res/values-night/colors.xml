@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yp_blue_black">@color/yp_black</color>
+    <color name="ic_color_inactive">@color/white</color>
+    <color name="ic_color_active">@color/white</color>
+    <color name="color_yp_black_white">@color/white</color>
+    <color name="color_yp_white_black">@color/yp_black</color>
+    <color name="color_yp_shades_of_grey">#401A1B22</color>
+    <color name="color_yp_shades_of_grey_inv">#40FFFFFF</color>
+    <color name="gray_white">@color/yp_white</color>
+    <color name="edit_text_background">@color/white</color>
+    <color name="edit_text_icon_color">@color/black</color>
+</resources>

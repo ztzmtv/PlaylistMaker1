@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/nameView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_yp_shades_of_grey_inv"
+        android:textSize="13sp"
+        android:layout_gravity="start"
+        tools:text="Альбом" />
+
+    <TextView
+        android:id="@+id/valueView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_yp_black_white"
+        android:textSize="13sp"
+        android:layout_gravity="end"
+        tools:text="Yesterday (Remastered 2009)" />
+
+</FrameLayout>
